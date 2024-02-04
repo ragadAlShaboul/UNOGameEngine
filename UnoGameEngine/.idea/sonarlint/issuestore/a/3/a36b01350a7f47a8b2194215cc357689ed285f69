@@ -1,0 +1,13 @@
+
+a
+java:S1192+"FDefine a constant instead of duplicating this literal "Black" 3 times.(“½Ë³úÿÿÿÿ
+„
+java:S1319"iThe type of "cardDeck" should be an interface such as "List" rather than the implementation "LinkedList".(ÉŸó‘ÿÿÿÿÿ
+ƒ
+java:S1319"hThe type of "players" should be an interface such as "List" rather than the implementation "LinkedList".(ÉŸó‘ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±óÐ¼ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ÿ¹ý§þÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ê‹öÌÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(†Ëô¯
+E	java:S106"+Replace this use of System.out by a logger.(ò®¢Íúÿÿÿÿ
+E	java:S106W"+Replace this use of System.out by a logger.(‚‚‚¿üÿÿÿÿ

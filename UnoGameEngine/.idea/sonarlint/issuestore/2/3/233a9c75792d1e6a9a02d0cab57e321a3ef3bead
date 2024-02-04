@@ -1,0 +1,6 @@
+
+
+java:S1319"iThe type of "cardDeck" should be an interface such as "List" rather than the implementation "LinkedList".(Óïì
+~
+java:S1319"hThe type of "players" should be an interface such as "List" rather than the implementation "LinkedList".(Óïì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±óĞ¼ûÿÿÿÿ
